@@ -1,4 +1,4 @@
-package com.test;
+package com.test1;
 
 import java.util.ArrayList;
 
@@ -11,7 +11,6 @@ public class CoreJavaBrushUp2 {
 		for (String s : name) {
 			System.out.println(s);
 		}
-
 		int[] arr1 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 122, 12, 4, 123, 44, 46, 98, 600 };
 		for (int i = 0; i <= arr1.length - 1; i++) {
 			if (arr1[i] % 2 == 0) {

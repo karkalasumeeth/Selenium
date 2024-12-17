@@ -1,4 +1,4 @@
-package com.test;
+package com.test1;
 
 import javax.swing.*;
 import java.awt.*;
@@ -14,7 +14,6 @@ public class displayImageExample {
 
 		// Create a label and set the icon (image) on it
 		JLabel label = new JLabel(imageIcon);
-
 		// Set up the frame layout and add the label to the frame
 		frame.setLayout(new FlowLayout());
 		frame.add(label);

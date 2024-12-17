@@ -1,4 +1,4 @@
-package com.test;
+package com.test1;
 
 import java.time.Duration;
 
@@ -9,8 +9,9 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
-import com.test.WebPage;
-import com.test.Utility;
+
+import com.test1.Utility;
+import com.test1.WebPage;
 
 public class Locators {
 	WebDriver driver;

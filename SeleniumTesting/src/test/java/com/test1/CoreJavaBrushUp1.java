@@ -1,4 +1,4 @@
-package com.test;
+package com.test1;
 
 public class CoreJavaBrushUp1 {
 
@@ -20,7 +20,6 @@ public class CoreJavaBrushUp1 {
 		arr[4] = 50;
 		// arr[5]=60;//lava.lang.ArrayIndexOutOfBoundsException
 		System.out.println(arr[4]);
-
 		int[] arr2 = { 1, 2, 3, 4, 5, 6 };
 		System.out.println(arr2[3]);
 

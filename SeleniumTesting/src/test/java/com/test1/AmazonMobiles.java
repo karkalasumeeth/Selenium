@@ -1,4 +1,4 @@
-package com.test;
+package com.test1;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -21,7 +21,6 @@ public class AmazonMobiles {
 
             // Navigate to the Amazon website
             driver.get("https://www.amazon.in/");
-
             // Perform operations
             locators.clickOnAllSideBarBtn();
             driver.manage().window().maximize();
